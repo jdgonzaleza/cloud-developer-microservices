@@ -3,8 +3,8 @@
 Udagram is a images application used to understand microservices architecture and clud development.
 
 1. [The Simple Frontend](/udacity-c3-frontend)
-2. [The RestAPI Feed Backend](/udacity-c3-restapi-feed), a Node-Express feed microservice.
-3. [The RestAPI User Backend](/udacity-c3-restapi-user), a Node-Express user microservice.
+2. [The RestAPI Feed Backend](/udacity-c3-restapi-feed)
+3. [The RestAPI User Backend](/udacity-c3-restapi-user)
 ### Prerequisites
 You will need to have an AWS account as we will use it to create our infraestructure.
 
