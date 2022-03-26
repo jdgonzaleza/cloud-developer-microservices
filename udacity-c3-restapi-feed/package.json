@@ -28,7 +28,7 @@
     "reflect-metadata": "^0.1.13",
     "sequelize": "^5.15.1",
     "sequelize-typescript": "^0.6.9",
-    "minimist": ">=1.2.3"
+    "minimist": ">=1.2.6"
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.26",
@@ -39,7 +39,7 @@
     "chai": "^4.2.0",
     "chai-http": "^4.2.1",
     "mocha": "^6.1.4",
-    "minimist": ">=1.2.3",
+    "minimist": ">=1.2.6",
     "ts-node-dev": "^1.0.0-pre.32",
     "tslint": "^5.14.0",
     "typescript": "^3.3.4000"
